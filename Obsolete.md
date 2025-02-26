@@ -1,2 +1,2 @@
 
-<p style="color:red;"> Obsolete </p>
+<span style="color:red;"> Obsolete </span>
