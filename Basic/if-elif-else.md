@@ -24,3 +24,7 @@ else:
     else:
         print("World")
 ```
+
+  
+[Check this out if you're on mobile!](https://github.com/Mashicaua/Maths-and-Python/blob/main/WARNING.md)
+  
