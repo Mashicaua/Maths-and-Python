@@ -5,8 +5,13 @@ x = 2
 y = 2
 x = 3
 print(y)
+```
+
+### Output
+```sh
 2
 ```
+
 ## Maths
 $$ x_0 = 2 $$
 $$ y = x_0 $$
