@@ -1,4 +1,4 @@
-# 2. if-else Python Keywords
+# 3. if-else Python Keywords
 ## Python
 ```Python
 if x == y:
