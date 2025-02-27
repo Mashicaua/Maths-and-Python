@@ -1,4 +1,4 @@
-# Variable assignment
+# 1. Variable assignment
 ## Python
 ```Python
 x = 2
@@ -26,3 +26,5 @@ The initial value of $x$ ($x_0$) is defined as 2.
 The variable $y$ is defined as $x_0$ (2)  
 Subsequently, the 2nd value of $x$ ($x_1$) is defined as 3.  
 And finally, by writing to $y$, we obtain $x_0$ (2).
+
+[Important to see](https://github.com/Mashicaua/Maths-and-Python/blob/main/WARNING.md)
