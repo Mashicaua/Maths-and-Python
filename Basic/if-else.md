@@ -9,4 +9,6 @@ else:
 ## Math
 
 $$\LARGE{\\{}^{x;\text{ if } x = y}_{y; \text{ else}}$$
-
+  
+[Check this out if you're on mobile!](https://github.com/Mashicaua/Maths-and-Python/blob/main/WARNING.md)
+  
