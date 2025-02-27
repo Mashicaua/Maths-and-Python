@@ -1,4 +1,4 @@
-# del Python Keyword
+# 5. del Python Keyword
 ## Python
 ```Python
 x = 2
