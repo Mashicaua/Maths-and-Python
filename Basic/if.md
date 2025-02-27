@@ -1,8 +1,8 @@
 # if statement
 ## Python
 ```Python
-if x == 5l:
-    print(x)
+>>>if x == 5l:
+>>>    print(x)
 ```
 ## Math
 $x;$ if $x = 51$
