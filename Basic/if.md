@@ -1,4 +1,4 @@
-# if statement
+# 2. if statement
 ## Python
 ```Python
 >>>if x == 5l:
