@@ -1,10 +1,10 @@
 # Variable assignment
 ## Python
 ```Python
->> x = 2
->> y = 2
->> x = 3
->> print(y)
+x = 2
+y = 2
+x = 3
+print(y)
 2
 ```
 ## Maths
