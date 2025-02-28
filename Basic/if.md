@@ -7,7 +7,7 @@ if x == 5l:
 ## Math
 $x;$ if $x = 51$
 ## Explanation
-We can use ";" symbol to represent the end of an expression
+We can use ";" symbol to represent the end of an expression.  
 It is very important to write keywords and functions not in italics or cursive.  
 ### Structure
 $$\LARGE{[expression];\textsf{ if } [condition]}$$
