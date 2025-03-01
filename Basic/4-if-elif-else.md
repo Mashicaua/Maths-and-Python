@@ -25,6 +25,11 @@ else:
         print("World")
 ```
 
+But you can do this too:
+
+![if-else if-else Math structure](https://github.com/Mashicaua/Maths-and-Python/blob/main/450_1000~5.jpg)
+
+And fill it with "else if"s until you don't need any more, like in Python (It's good practice to simplify the code anyway).  
   
 [Check this out if you're on mobile!](https://github.com/Mashicaua/Maths-and-Python/blob/main/WARNING.md)
   
