@@ -2,7 +2,7 @@
 ## Python
 ```Python
 x = 2
-y = 2
+y = x
 x = 3
 print(y)
 ```
